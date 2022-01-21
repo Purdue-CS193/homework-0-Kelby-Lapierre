@@ -1,5 +1,5 @@
 ## Hello My name is Kelby and Welcome to GitHub Pages
-
+-In CS193 I enjoy the simplicity of the class and the useful skills it will teach me along the way!
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
